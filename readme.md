@@ -1,4 +1,4 @@
-# Password Generator Using JavaScript ![JavaScript](https://img.shields.io/badge/Password--Generator-Javascript-blue)
+# Password Generator Using JavaScript [Live Link](https://password-generator3.netlify.app/) ![JavaScript](https://img.shields.io/badge/Password--Generator-Javascript-blue)
 ### This one was like a challenge provided us with only javascript functions to write logic into that with entire html and css already written.
 # Working ![Working](https://img.shields.io/badge/Working%20of-Project-blue)
 ### 1. Select 1 to 20 characters as per your choice to get password generated.
